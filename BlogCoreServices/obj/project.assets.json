@@ -12599,11 +12599,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Interview 2021\\GrapeCity\\latest\\Blogs\\BlogCoreServices\\BlogCoreServices\\BlogCoreServices.csproj",
+      "projectUniqueName": "E:\\Interview 2021\\GrapeCity\\Nadeem\\Test\\MyBlogs\\BlogCoreServices\\BlogCoreServices.csproj",
       "projectName": "BlogCoreServices",
-      "projectPath": "E:\\Interview 2021\\GrapeCity\\latest\\Blogs\\BlogCoreServices\\BlogCoreServices\\BlogCoreServices.csproj",
+      "projectPath": "E:\\Interview 2021\\GrapeCity\\Nadeem\\Test\\MyBlogs\\BlogCoreServices\\BlogCoreServices.csproj",
       "packagesPath": "C:\\Users\\hp\\.nuget\\packages\\",
-      "outputPath": "E:\\Interview 2021\\GrapeCity\\latest\\Blogs\\BlogCoreServices\\BlogCoreServices\\obj\\",
+      "outputPath": "E:\\Interview 2021\\GrapeCity\\Nadeem\\Test\\MyBlogs\\BlogCoreServices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

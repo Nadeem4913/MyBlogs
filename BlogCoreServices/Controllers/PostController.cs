@@ -4,11 +4,13 @@ using System.Linq;
 using System.Threading.Tasks;
 using BlogCoreServices.Models;
 using BlogCoreServices.Repository;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace BlogCoreServices.Controllers
 {
+    //[Authorize]
     [Route("api/[controller]")]
     [ApiController]
     public class PostController : ControllerBase
