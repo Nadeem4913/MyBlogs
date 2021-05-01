@@ -1,0 +1,28 @@
+C:\Users\hp\source\repos\BlogCoreServices\BlogCoreServices\bin\Debug\netcoreapp2.1\BlogCoreServices.deps.json
+C:\Users\hp\source\repos\BlogCoreServices\BlogCoreServices\bin\Debug\netcoreapp2.1\BlogCoreServices.runtimeconfig.json
+C:\Users\hp\source\repos\BlogCoreServices\BlogCoreServices\bin\Debug\netcoreapp2.1\BlogCoreServices.runtimeconfig.dev.json
+C:\Users\hp\source\repos\BlogCoreServices\BlogCoreServices\bin\Debug\netcoreapp2.1\BlogCoreServices.dll
+C:\Users\hp\source\repos\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.csprojAssemblyReference.cache
+C:\Users\hp\source\repos\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.RazorAssemblyInfo.cache
+C:\Users\hp\source\repos\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.RazorAssemblyInfo.cs
+C:\Users\hp\source\repos\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.AssemblyInfo.cs
+C:\Users\hp\source\repos\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.RazorTargetAssemblyInfo.cache
+C:\Users\hp\source\repos\BlogCoreServices\BlogCoreServices\bin\Debug\netcoreapp2.1\BlogCoreServices.pdb
+C:\Users\hp\source\repos\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.dll
+C:\Users\hp\source\repos\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.pdb
+E:\Interview 2021\GrapeCity\latest\Blogs\BlogCoreServices\BlogCoreServices\bin\Debug\netcoreapp2.1\BlogCoreServices.deps.json
+E:\Interview 2021\GrapeCity\latest\Blogs\BlogCoreServices\BlogCoreServices\bin\Debug\netcoreapp2.1\BlogCoreServices.runtimeconfig.json
+E:\Interview 2021\GrapeCity\latest\Blogs\BlogCoreServices\BlogCoreServices\bin\Debug\netcoreapp2.1\BlogCoreServices.runtimeconfig.dev.json
+E:\Interview 2021\GrapeCity\latest\Blogs\BlogCoreServices\BlogCoreServices\bin\Debug\netcoreapp2.1\BlogCoreServices.dll
+E:\Interview 2021\GrapeCity\latest\Blogs\BlogCoreServices\BlogCoreServices\bin\Debug\netcoreapp2.1\BlogCoreServices.pdb
+E:\Interview 2021\GrapeCity\latest\Blogs\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.csprojAssemblyReference.cache
+E:\Interview 2021\GrapeCity\latest\Blogs\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.csproj.CoreCompileInputs.cache
+E:\Interview 2021\GrapeCity\latest\Blogs\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.RazorAssemblyInfo.cache
+E:\Interview 2021\GrapeCity\latest\Blogs\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.RazorAssemblyInfo.cs
+E:\Interview 2021\GrapeCity\latest\Blogs\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.AssemblyInfoInputs.cache
+E:\Interview 2021\GrapeCity\latest\Blogs\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.AssemblyInfo.cs
+E:\Interview 2021\GrapeCity\latest\Blogs\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.RazorTargetAssemblyInfo.cache
+E:\Interview 2021\GrapeCity\latest\Blogs\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.dll
+E:\Interview 2021\GrapeCity\latest\Blogs\BlogCoreServices\BlogCoreServices\obj\Debug\netcoreapp2.1\BlogCoreServices.pdb
